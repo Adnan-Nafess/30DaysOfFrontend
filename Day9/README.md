@@ -1,4 +1,4 @@
-# Day 10: Deep Dive into JavaScript's Event Loop System 🔄
+# Day 9: Deep Dive into JavaScript's Event Loop System 🔄
 
 JavaScript is **single-threaded**, yet it handles asynchronous operations like magic. This magic is powered by the **Event Loop** and its surrounding components like the Call Stack, Web APIs, Microtask Queue, and Callback Queue.
 
