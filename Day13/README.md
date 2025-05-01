@@ -1,4 +1,4 @@
-# Day 18: Shallow vs Deep Copy in JavaScript – Deep Dive 🧐
+# Day 13: Shallow vs Deep Copy in JavaScript – Deep Dive 🧐
 
 Copying objects and arrays is a common task in JavaScript—but not understanding **how** it works can introduce hard-to-spot bugs. Let's dive into **shallow vs deep copy**, how they differ, and how JavaScript handles them behind the scenes.
 
