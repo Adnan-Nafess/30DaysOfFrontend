@@ -1,4 +1,4 @@
-# Day 20: Understanding JSX in React – The Syntax Extension That Powers Your UI 🤩
+# Day 15: Understanding JSX in React – The Syntax Extension That Powers Your UI 🤩
 
 ## 🔍 What is JSX?
 
